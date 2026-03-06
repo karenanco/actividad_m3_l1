@@ -1,1 +1,2 @@
 # actividad_m3_l1
+Me ha gustado lo concreto y legible del programa, siendo esos elementos los que me facilitan la intoducción a Python. Por otro lado, me ha resultado desafiante la cantidad de conceptos y/o códigos que se requieren o que se aplican. Me confuden mucho, pero pienso que con práctica me puedo adaptar.
